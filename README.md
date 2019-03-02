@@ -36,7 +36,7 @@ XML Dosyası
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="emrealtunbilek.com.listactivityornek.MainActivity">
+    tools:context="ihaydin.com.listactivityornek.MainActivity">
  
     <ListView
         android:layout_width="match_parent"
